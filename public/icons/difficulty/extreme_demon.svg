@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="ed-glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dc2626" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 22 L26 1 L40 22 Z" fill="#000" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M60 22 L74 1 L86 22 Z" fill="#000" stroke="#dc2626" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="50" cy="56" r="36" fill="#1c1917" stroke="#dc2626" stroke-width="3"/>
+  <path d="M50 22 q-8 -4 -10 4 q-6 -2 -4 6" stroke="url(#ed-glow)" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M22 38 L48 50" stroke="#dc2626" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 38 L52 50" stroke="#dc2626" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="38" cy="58" r="5" fill="#dc2626"/>
+  <circle cx="62" cy="58" r="5" fill="#dc2626"/>
+  <path d="M24 68 L76 68 L70 86 L64 74 L56 86 L48 74 L40 86 L32 76 Z" fill="#dc2626" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>
+</svg>
